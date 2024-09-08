@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43a63374-a4a9-4238-a129-6ede6bb46ae1)# ECO2_View
+# ![image](https://raw.githubusercontent.com/githubxnishant/ECO2_View/59b14f68eb7d4f3b06276e0b26e32cd8d55e2494/Assets/logo.png) ECO2_View
 
 ### Problem Statement ID - SIH1644
 
@@ -23,7 +23,10 @@ We have created a web-based Carbon footprint monitoring System provides real-tim
 
 Firstly, the contributors can estimate the data input in the system or it can be precisely estimated by the IoT devices installed in the coal mines, which is also the USP. The calculated data will be processed and then converted in the graphical representation form. Based on the data, the solution suggests the personalised carbon neutralizatiion pathways. Also it has the AI Decision Support System, after analyzing the data, which suggests the necessary steps to be taken. It has a dashboard which has a variety of features, to estimate data, view rankings, ML prediction model etc.
 
+![image](https://raw.githubusercontent.com/githubxnishant/ECO2_View/59b14f68eb7d4f3b06276e0b26e32cd8d55e2494/Assets/contributor.png)
+
 Secondly, it has a homepage which is the main attraction of the solution, it also feautures a variety of USPs. To accesible for the public, it has a easy to use UI, and data visualization tools like graphs, charts, pictorial representations etc. For public awareness, it also has dedicted sections for publication, articles, news, amendments etc.
+![image](https://raw.githubusercontent.com/githubxnishant/ECO2_View/59b14f68eb7d4f3b06276e0b26e32cd8d55e2494/Assets/Guest.png)
 
 ### Architecture Diagram :
 ![image](https://raw.githubusercontent.com/githubxnishant/ECO2_View/59b14f68eb7d4f3b06276e0b26e32cd8d55e2494/Assets/Prototype.drawio.png)
@@ -36,6 +39,9 @@ Our multi-layered data strategy leverages historical data, providing comprehensi
 IoT Devices and Sensors will be used for real time monitoring and carbon credit management with implementation of Blockchain Technology.
 Advanced Geospatial Analysis and Simulation of Clean Technologies to bridge gap between emissions and carbon sinks.
 
+### Working Prototype :
+
+
 ### Technologies Used
 
 Frontend : HTML5, CSS3, Javascript, React.js
@@ -46,6 +52,8 @@ Hardware : Arduino UNO, Fluke 1730
 Database : MySQL, PostgreSQL
 AI/ML : Python, PyTorch, TensorFlow
 Cloud & Reporting : PowerBI, AWS
+
+![image](https://raw.githubusercontent.com/githubxnishant/ECO2_View/59b14f68eb7d4f3b06276e0b26e32cd8d55e2494/Assets/Untitled%20Diagram.drawio.png)
 
 
 ### Analysis of the feasibility of the idea :
