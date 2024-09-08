@@ -21,11 +21,12 @@ Background: India faces a complex challenge in balancing its reliance on coal fo
 
 We have created a web-based Carbon footprint monitoring System provides real-time Carbon Emissions and Neutrality Pathways, allowing to instantly access carbon footprints by coal mines of pan India. The prototype will function as follows - The Data will be given by given by Contributors or the IoT Devices installed in the Coal Mines. Basically the idea it to get the data from coal mines so it can be quantified. And according to the data accessed from these sources we can give personaised carbon neutralization pathway suggestion to each mine. It works in the two direction :
 
-Firstly the contributors can estimate the data input in the system or it can be precisely estimated by the IoT devices installed in the coal mines, which is also the USP.
+Firstly, the contributors can estimate the data input in the system or it can be precisely estimated by the IoT devices installed in the coal mines, which is also the USP. The calculated data will be processed and then converted in the graphical representation form. Based on the data, the solution suggests the personalised carbon neutralizatiion pathways. Also it has the AI Decision Support System, after analyzing the data, which suggests the necessary steps to be taken. It has a dashboard which has a variety of features, to estimate data, view rankings, ML prediction model etc.
+
+Secondly, it has a homepage which is the main attraction of the solution, it also feautures a variety of USPs. To accesible for the public, it has a easy to use UI, and data visualization tools
 
 Visualize and compare data effortlessly with Data Visualization Tools like heat maps, pictorial displays, bar graphs and line graphs.
 Stay informed with our comprehensive Carbon Neutrality Pathways and AI Decision Support System.
 Our multi-layered data strategy leverages historical data, providing comprehensive carbon footprints insights using ML prediction model.
 IoT Devices and Sensors will be used for real time monitoring and carbon credit management with implementation of Blockchain Technology.
 Advanced Geospatial Analysis and Simulation of Clean Technologies to bridge gap between emissions and carbon sinks.
-![image](https://github.com/user-attachments/assets/29c6fd10-1aff-4fab-bb88-53347e77fa13)
