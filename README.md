@@ -19,9 +19,9 @@ Background: India faces a complex challenge in balancing its reliance on coal fo
 1) To quantify carbon footprints by Indian Coal Mines
 2) To implement pathways to neutralize them
 
-We have created a web-based Carbon footprint monitoring System provides real-time Carbon Emissions and Neutrality Pathways, allowing to instantly access carbon footprints by coal mines of pan India. The prototype will function as follows :
+We have created a web-based Carbon footprint monitoring System provides real-time Carbon Emissions and Neutrality Pathways, allowing to instantly access carbon footprints by coal mines of pan India. The prototype will function as follows - The Data will be given by given by Contributors or the IoT Devices installed in the Coal Mines. Basically the idea it to get the data from coal mines so it can be quantified. And according to the data accessed from these sources we can give personaised carbon neutralization pathway suggestion to each mine. It works in the two direction :
 
-The Data will be given by given by Contributors or the IoT Devices installed in the Coal Mines. Basically the idea it to get the data from coal mines so to visualize it.
+Firstly the contributors can estimate the data input in the system or it can be precisely estimated by the IoT devices installed in the coal mines, which is also the USP.
 
 Visualize and compare data effortlessly with Data Visualization Tools like heat maps, pictorial displays, bar graphs and line graphs.
 Stay informed with our comprehensive Carbon Neutrality Pathways and AI Decision Support System.
