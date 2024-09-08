@@ -23,8 +23,9 @@ We have created a web-based Carbon footprint monitoring System provides real-tim
 
 Firstly, the contributors can estimate the data input in the system or it can be precisely estimated by the IoT devices installed in the coal mines, which is also the USP. The calculated data will be processed and then converted in the graphical representation form. Based on the data, the solution suggests the personalised carbon neutralizatiion pathways. Also it has the AI Decision Support System, after analyzing the data, which suggests the necessary steps to be taken. It has a dashboard which has a variety of features, to estimate data, view rankings, ML prediction model etc.
 
-Secondly, it has a homepage which is the main attraction of the solution, it also feautures a variety of USPs. To accesible for the public, it has a easy to use UI, and data visualization tools
+Secondly, it has a homepage which is the main attraction of the solution, it also feautures a variety of USPs. To accesible for the public, it has a easy to use UI, and data visualization tools like graphs, charts, pictorial representations etc. For public awareness, it also has dedicted sections for publication, articles, news, amendments etc.
 
+### Proposal of Solution :
 Visualize and compare data effortlessly with Data Visualization Tools like heat maps, pictorial displays, bar graphs and line graphs.
 Stay informed with our comprehensive Carbon Neutrality Pathways and AI Decision Support System.
 Our multi-layered data strategy leverages historical data, providing comprehensive carbon footprints insights using ML prediction model.
