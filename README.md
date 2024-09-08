@@ -1,4 +1,4 @@
-# ECO2_View
+![image](https://github.com/user-attachments/assets/43a63374-a4a9-4238-a129-6ede6bb46ae1)# ECO2_View
 
 ### Problem Statement ID - SIH1644
 
@@ -31,3 +31,53 @@ Stay informed with our comprehensive Carbon Neutrality Pathways and AI Decision 
 Our multi-layered data strategy leverages historical data, providing comprehensive carbon footprints insights using ML prediction model.
 IoT Devices and Sensors will be used for real time monitoring and carbon credit management with implementation of Blockchain Technology.
 Advanced Geospatial Analysis and Simulation of Clean Technologies to bridge gap between emissions and carbon sinks.
+
+### Technologies Used
+
+Frontend : HTML5, CSS3, Javascript, React.js
+Backend : Node.js, Express.js, Next.js
+Design Framework : Bootstrap, Tailwind
+Data Visualization : Chart.js, D3.js
+Hardware : Arduino UNO, Fluke 1730
+Database : MySQL, PostgreSQL
+AI/ML : Python, PyTorch, TensorFlow
+Cloud & Reporting : PowerBI, AWS
+
+
+### Analysis of the feasibility of the idea :
+
+Integrating data from IoT Devices is technically feasible.
+Building predictive models using historical data is feasible.
+Blockchain technology can be used for transparent carbon credit management.
+
+### Potential challenges and risks :
+
+Managing latency to ensure real-time insights.
+Ensuring predictive models are accurate and robust.
+Accurately simulation of clean technologies and bridging emission-sinks gap. 
+
+### Strategies for overcoming these challenges :
+
+Implement edge computing solutions to reduce data latency.
+Continuously validate and update models.
+Partner with experts to accurately simulate models.
+
+### Impacts :
+Enhanced ability to visualize carbon emission data.
+Provides actionable insights and strategies for achieving carbon neutrality.
+Utilize ML models to provide precise carbon footprint predictions.
+Contributes to optimization of Clean Technologies.
+Contributes to Environmental Sustainability.
+
+### Benefits :
+Increases Policy Decision accuracy by 30%.
+Reduced fines and penalties costs by 25%.
+Blockchain can reduce fraud and data tampering.
+Public awareness of Carbon Emissions can increase by upto 60%.
+Reduction of respiratory illnesses by upto 15% in affected areas. 
+
+
+
+
+
+
